@@ -82,27 +82,27 @@ help to build my career.
 
 <h3 align="center">🌐 Connect with Me</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://www.facebook.com/Erish.berboso.7/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/erish_berboso">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/@e_BRBS">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  <a href="https://t.me/e_BRBS">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:erishberboso10@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=header)
 
 Color inspired from this pokemons:
 
-<table align="center" border="8">
+<table align="center" border="4">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png" width="80"/><br/>
@@ -110,11 +110,11 @@ Color inspired from this pokemons:
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/2.png" width="80"/><br/>
-      Charmander ✨
+      Ivysaur ✨
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/3.png" width="80"/><br/>
-      Squirtle ✨
+      Venusaur ✨
     </td>
   </tr>
   
