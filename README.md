@@ -1,12 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=200&section=header&text=Hi!%20I%20am%20John%20Erish%20Berboso&fontSize=40&fontColor=ffffff)
 
-<h2 align="center">About Me📝</h2>
 
-- 🔭 I’m currently working as **Full Stack Developer Freelancer**
-- 🌱 I’m currently learning **Docker & system design**
-- 👯 I’m looking to collaborate on **web apps & startup ideas**
-- 🤔 I’m looking for help with **scalable backend architecture**
-- ⚡ Fun fact: I am a **Pokemon Fan**
+<h2 align="center">📝About Me</h2>
+
+Aspiring to be a **Software Engineer** who build and develop modern, impactful software solutions. I graduated with a bachelor's degree of **Information Systems** at **La Verdad Christian College, Apalit Pampanga**. I'm eager to learn more about new technologies that will
+help to build my career.
 
 ---
 
@@ -70,31 +68,58 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-<h3>📊 GitHub Stats</h3>
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erishBRBS&show_icons=true&theme=merko"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erishBRBS&layout=compact&theme=merko"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erishBRBS&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erishBRBS&layout=compact&theme=merko"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erishBRBS&theme=merko"/>
 </p>
 
 ---
 
+<h3 align="center">🌐 Connect with Me</h3>
+
+<div align="center">
+  <a href="https://www.facebook.com/Erish.berboso.7/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="https://instagram.com/erish_berboso">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://t.me/@e_BRBS">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+  <a href="mailto:erishberboso10@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+---
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=header)
+
+Color inspired from this pokemons:
+
 <table align="center" border="8">
   <tr>
-      <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" width="80"/><br/>
-      Bulbasaur 🍃
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png" width="80"/><br/>
+      Bulbasaur ✨
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" width="80"/><br/>
-      Charmander 🔥
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/2.png" width="80"/><br/>
+      Charmander ✨
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" width="80"/><br/>
-      Squirtle 💧
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/3.png" width="80"/><br/>
+      Squirtle ✨
     </td>
   </tr>
+  
 </table>
 
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=footer)
+
